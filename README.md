@@ -1,4 +1,4 @@
-# crapload.xyz
+# crapload-xyz
 
 A dusty pre-AI cloud-storage prototype I hacked together 12 years ago. It is threatening to fossilize in a zip until I die. Vintage human work, no model in the loop.
 
